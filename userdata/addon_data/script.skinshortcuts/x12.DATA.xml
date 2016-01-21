@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>22020</defaultID>
+		<label>22020</label>
+		<label2>Live TV</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVGuide)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>32068</defaultID>
+		<label>32068</label>
+		<label2>Live TV</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb />
+		<action>PlayPvr</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.colombiatv</defaultID>
+		<label>ColombiaTV</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.colombiatv%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.colombiatv",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>canales</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fi.imgur.com%2foxTNPnp.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.COLOMBIA TV LIBRE/?url=http%3A%2F%2Fadrian.kodistream.info%2Fadryan%2Fnescafe.xml&amp;mode=1&amp;name=%5BCOLOR+orange%5D%E2%80%A2%5B%2FCOLOR%5D%5BCOLOR+deepskyblue%5D++Stalker+++%5B%2FCOLOR%5D%5BCOLOR+skyblue%5D%5BNescafe%5D%5B%2FCOLOR%5D+&amp;fanart=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR FFAAAAAA]Peliculas 24/7[COLOR FFFFFFFF]E[/COLOR]spanol[/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.stream.vaughnlive.tv%5cart%5cespanol.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.stream.vaughnlive.tv/?site=&amp;type=php&amp;mode=BrowseCat3&amp;cat=espanol",return)</action>
+	</shortcut>
+</shortcuts>

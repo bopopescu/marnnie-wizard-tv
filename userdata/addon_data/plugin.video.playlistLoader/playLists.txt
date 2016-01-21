@@ -1,0 +1,14 @@
+[
+    {
+        "url": "http://pastebin.com/raw/4z4iukJP", 
+        "logos": "C:\\Users\\Marvin j\\Google Drive\\guia.tv\\logos movie\\", 
+        "image": "C:\\Users\\Marvin j\\Google Drive\\guia.tv\\logos movie\\PPV-Logo-Final.png", 
+        "name": "PPV Movies"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/ehLcDs2P", 
+        "logos": "C:\\Users\\Marvin j\\AppData\\Roaming\\Kodi\\userdata\\Background\\logos\\", 
+        "image": "C:\\Users\\Marvin j\\AppData\\Roaming\\Kodi\\userdata\\Background\\sport\\futbol_4.jpg", 
+        "name": "Sports"
+    }
+]

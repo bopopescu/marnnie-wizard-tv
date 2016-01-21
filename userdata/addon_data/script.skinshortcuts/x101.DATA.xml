@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[B]Kids HD[/B]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fs5.postimg.org%2fwy37mjih3%2fKids_HD.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DKids+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2FKids.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fwy37mjih3%2FKids_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Animation</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesislazarus%5cresources%2fart%5cgone%5cgenres_shows.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesislazarus/?action=shows&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dtv_series%2Cmini_series%26sort%3Dmoviemeter%2Casc%26count%3D25%26start%3D1%26genres%3Danimation",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>kids &amp; animation</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fi.imgur.com%2fYXaY4BI.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?name=kids+%26+animation&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2Fkids_animation.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FYXaY4BI.png&amp;fanart=http%3A%2F%2Fi.imgur.com%2F3qbgUvo.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode",return)</action>
+	</shortcut>
+</shortcuts>

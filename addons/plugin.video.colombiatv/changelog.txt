@@ -1,0 +1,17 @@
+[B] Version 1.0.1 [/B]
+- Initial release.
+- You can see all UNE TV channels
+
+[B] Version 1.0.2 [/B]
+- Added more channels
+
+[B] Version 1.0.3 [/B]
+- Added more channels
+- Update channels images
+
+[B] Version 1.0.4 [/B]
+- Added FIFA World Cup 2014 Streaming
+
+[B] Version 1.0.5 [/B]
+- Added links outside tvune.
+- Added Caracol HD, RCN HD and WinSports Online.

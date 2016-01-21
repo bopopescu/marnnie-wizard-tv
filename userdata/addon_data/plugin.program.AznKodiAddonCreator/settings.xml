@@ -1,0 +1,13 @@
+<settings>
+    <setting id="addon_fanart" value="C:\Users\Marvin j\Google Drive\guia.tv\untitled folder\o0HT9wy-Imgur.png" />
+    <setting id="addon_icon" value="C:\Users\Marvin j\Desktop\kodi\index.jpg" />
+    <setting id="addon_version_number" value="0.0.1" />
+    <setting id="desc" value="futurolatino.iptv" />
+    <setting id="dst" value="C:\Users\Marvin j\Desktop\kodi\" />
+    <setting id="name_of_addon" value="futurolatino" />
+    <setting id="name_of_plugin_folder" value="plugin.video.futurolatino" />
+    <setting id="online_m3u" value="http://pastebin.com/raw/qb8He423" />
+    <setting id="online_xml" value="" />
+    <setting id="provider-name" value="Kodi B/Tura" />
+    <setting id="sum_mary" value="futurolatino iptv pudes disfrutar de toda la programacion y deportes en un solo punto " />
+</settings>

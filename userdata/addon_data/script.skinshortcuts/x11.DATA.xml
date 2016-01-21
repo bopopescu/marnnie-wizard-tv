@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR coral]  [B]Series de TV[/B] [/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fi.imgur.com%2f6pvNVON.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.COLOMBIA TV LIBRE/?url=http%3A%2F%2Fadrian.kodistream.info%2Fadryan%2Ftv.xml&amp;mode=1&amp;name=%5BCOLOR+lime%5D%E2%80%A2%5B%2FCOLOR%5D%5BCOLOR+skyblue%5D++%5BB%5DSeries+de+TV%5B%2FB%5D+%5B%2FCOLOR%5D&amp;fanart=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Most Popular</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesislazarus%5cresources%5cart%5cgone%5cshows_popular.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesislazarus/?action=shows_popular",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[B]Current TV Shows[/B]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fs5.postimg.org%2f8yw465vev%2fAROCK.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+TV+Shows%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FTV%2520Stuff%2FTV.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F8yw465vev%2FAROCK.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Foyy7si03r%2F5_UPq_USK.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode",return)</action>
+	</shortcut>
+</shortcuts>

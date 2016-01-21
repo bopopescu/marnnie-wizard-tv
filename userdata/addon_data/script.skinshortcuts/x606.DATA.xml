@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[B]Live Sport[/B]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.SportsDevil%5cresources%5cimages%5croja.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.SportsDevil/?mode=1&amp;item=title%3DRojaDirecta.me%26url%3Dlivesports%252Frojadirecta.me.cfg%26definedIn%3Dlivesports.cfg%26director%3DRojaDirecta.me%26genre%3DLive%2BSports%26type%3Drss%26icon%3DC%253A%255CUsers%255CMarvin%2Bj%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Croja.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR white][B]PPV Movies[/B][/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cGoogle%20Drive%5cguia.tv%5clogos%20movie%5cPPV-Logo-Final.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.playlistLoader/?url=http%3A%2F%2Fpastebin.com%2Fraw%2F4z4iukJP&amp;mode=2&amp;name=%5BCOLOR+blue%5D%5BPPV+Movies%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5CMarvin+j%5CGoogle+Drive%5Cguia.tv%5Clogos+movie%5CPPV-Logo-Final.png&amp;logos=C%3A%5CUsers%5CMarvin+j%5CGoogle+Drive%5Cguia.tv%5Clogos+movie%5C&amp;index=0&amp;move=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[B]Sports[/B]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5cuserdata%5cBackground%5csport%5cfutbol_4.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.playlistLoader/?url=http%3A%2F%2Fpastebin.com%2Fraw%2FehLcDs2P&amp;mode=2&amp;name=%5BCOLOR+blue%5D%5BSports%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5CMarvin+j%5CAppData%5CRoaming%5CKodi%5Cuserdata%5CBackground%5Csport%5Cfutbol_4.jpg&amp;logos=C%3A%5CUsers%5CMarvin+j%5CAppData%5CRoaming%5CKodi%5Cuserdata%5CBackground%5Clogos%5C&amp;index=1&amp;move=0",return)</action>
+	</shortcut>
+</shortcuts>

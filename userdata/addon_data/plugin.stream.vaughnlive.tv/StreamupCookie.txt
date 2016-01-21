@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d33e844f656118b6445838b81b8d8863c1453238093; path="/"; domain=".vaughnlive.tv"; path_spec; domain_dot; expires="2017-01-18 21:14:53Z"; HttpOnly=None; version=0

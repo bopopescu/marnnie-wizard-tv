@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>AWARD SHOWS</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fs2.postimg.org%2f6irf3xl3t%2fAwards_Shows.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?name=AWARD+SHOWS&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FForiegn%2Freplays.xml&amp;audio=0&amp;image=http%3A%2F%2Fs2.postimg.org%2F6irf3xl3t%2FAwards_Shows.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Live In Concert</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fs27.postimg.org%2fbwjiufa9v%2fLive_In_Concert.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?name=Live+In+Concert&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2Finconcert%2Fconcertsdirectory.xml&amp;audio=0&amp;image=http%3A%2F%2Fs27.postimg.org%2Fbwjiufa9v%2FLive_In_Concert.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>mtvlive</defaultID>
+		<label>MTV Live</label>
+		<label2>TV Channel</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cGoogle%20Drive%5cguia.tv%5clogos%5c%5c%e2%80%9dmtv-live-hd.png%5c%e2%80%9d/</thumb>
+		<action>pvr-channel://300</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>vh1classiceurope</defaultID>
+		<label>VH1 Classic Europe</label>
+		<label2>TV Channel</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cGoogle%20Drive%5cguia.tv%5clogos%5c%5c%e2%80%9dvh1-classisc.png%5c%e2%80%9d/</thumb>
+		<action>pvr-channel://325</action>
+	</shortcut>
+</shortcuts>

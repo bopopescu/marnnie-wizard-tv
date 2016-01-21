@@ -1,0 +1,37 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>library</name>
+            <path pathversion="1">special://home/userdata/addon_data/plugin.video.pelisalacarta/library</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>sport</name>
+            <path pathversion="1">http://srp.nu/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>metal</name>
+            <path pathversion="1">http://kodi.metalkettle.co/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>spor1</name>
+            <path pathversion="1">http://iwillfolo.com/iwf/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

@@ -1,0 +1,114 @@
+<settings>
+    <setting id="adult_mode" value="false" />
+    <setting id="adult_pin" value="" />
+    <setting id="alldebridpassword" value="" />
+    <setting id="alldebridpremium" value="false" />
+    <setting id="alldebriduser" value="" />
+    <setting id="blacklist" value="" />
+    <setting id="bookmarkpath" value="C:\Users\Marvin j\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.pelisalacarta\bookmarks" />
+    <setting id="channel_language" value="all" />
+    <setting id="debug" value="false" />
+    <setting id="default_action" value="0" />
+    <setting id="downloadlistpath" value="C:\Users\Marvin j\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.pelisalacarta\downloads\list" />
+    <setting id="downloadpath" value="C:\Users\Marvin j\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.pelisalacarta\downloads" />
+    <setting id="enableadultmode" value="false" />
+    <setting id="fileniumpassword" value="" />
+    <setting id="fileniumpremium" value="false" />
+    <setting id="fileniumuser" value="" />
+    <setting id="filter_servers" value="false" />
+    <setting id="forceview" value="false" />
+    <setting id="hdfullaccount" value="false" />
+    <setting id="hdfullpassword" value="" />
+    <setting id="hdfulluser" value="" />
+    <setting id="hidepremium" value="false" />
+    <setting id="jdownloader" value="http://127.0.0.1:10025" />
+    <setting id="jdownloader_enabled" value="false" />
+    <setting id="languagefilter" value="0" />
+    <setting id="librarypath" value="" />
+    <setting id="megaforoaccount" value="false" />
+    <setting id="megaforopassword" value="" />
+    <setting id="megaforouser" value="" />
+    <setting id="megahdaccount" value="false" />
+    <setting id="megahdpassword" value="" />
+    <setting id="megahduser" value="" />
+    <setting id="megaspainaccount" value="false" />
+    <setting id="megaspainpassword" value="" />
+    <setting id="megaspainuser" value="" />
+    <setting id="mocosoftxaccount" value="false" />
+    <setting id="mocosoftxpassword" value="" />
+    <setting id="mocosoftxuser" value="" />
+    <setting id="nowvideopassword" value="" />
+    <setting id="nowvideopremium" value="false" />
+    <setting id="nowvideouser" value="" />
+    <setting id="onefichierpassword" value="" />
+    <setting id="onefichierpremium" value="false" />
+    <setting id="onefichieruser" value="" />
+    <setting id="personalchannel" value="false" />
+    <setting id="personalchannel2" value="false" />
+    <setting id="personalchannel3" value="false" />
+    <setting id="personalchannel4" value="false" />
+    <setting id="personalchannel5" value="false" />
+    <setting id="personalchannellogo" value="http://pelisalacarta.mimediacenter.info/personalchannel/sample.png" />
+    <setting id="personalchannellogo2" value="http://pelisalacarta.mimediacenter.info/personalchannel/sample.png" />
+    <setting id="personalchannellogo3" value="http://pelisalacarta.mimediacenter.info/personalchannel/sample.png" />
+    <setting id="personalchannellogo4" value="http://pelisalacarta.mimediacenter.info/personalchannel/sample.png" />
+    <setting id="personalchannellogo5" value="http://pelisalacarta.mimediacenter.info/personalchannel/sample.png" />
+    <setting id="personalchannelname" value="Ejemplo de canal personal" />
+    <setting id="personalchannelname2" value="Ejemplo de canal personal" />
+    <setting id="personalchannelname3" value="Ejemplo de canal personal" />
+    <setting id="personalchannelname4" value="Ejemplo de canal personal" />
+    <setting id="personalchannelname5" value="Ejemplo de canal personal" />
+    <setting id="personalchannelpage" value="100" />
+    <setting id="personalchannelpage2" value="100" />
+    <setting id="personalchannelpage3" value="100" />
+    <setting id="personalchannelpage4" value="100" />
+    <setting id="personalchannelpage5" value="100" />
+    <setting id="personalchannelurl" value="http://pelisalacarta.mimediacenter.info/personalchannel/samplefeed.rss" />
+    <setting id="personalchannelurl2" value="http://pelisalacarta.mimediacenter.info/personalchannel/samplefeed.rss" />
+    <setting id="personalchannelurl3" value="http://pelisalacarta.mimediacenter.info/personalchannel/samplefeed.rss" />
+    <setting id="personalchannelurl4" value="http://pelisalacarta.mimediacenter.info/personalchannel/samplefeed.rss" />
+    <setting id="personalchannelurl5" value="http://pelisalacarta.mimediacenter.info/personalchannel/samplefeed.rss" />
+    <setting id="player_mode" value="0" />
+    <setting id="player_type" value="2" />
+    <setting id="playmaxaccount" value="false" />
+    <setting id="playmaxpassword" value="" />
+    <setting id="playmaxuser" value="" />
+    <setting id="pordedeaccount" value="false" />
+    <setting id="pordedenumberlinks" value="0" />
+    <setting id="pordedepassword" value="" />
+    <setting id="pordedeshowlinks" value="0" />
+    <setting id="pordedesortlinks" value="0" />
+    <setting id="pordedeuser" value="" />
+    <setting id="pyload" value="http://127.0.0.1:8000" />
+    <setting id="pyload_enabled" value="false" />
+    <setting id="pyload_password" value="" />
+    <setting id="pyload_user" value="" />
+    <setting id="quebajamosaccount" value="false" />
+    <setting id="quebajamospassword" value="" />
+    <setting id="quebajamosuser" value="" />
+    <setting id="realdebridpassword" value="" />
+    <setting id="realdebridpremium" value="false" />
+    <setting id="realdebriduser" value="" />
+    <setting id="saved_searches_limit" value="0" />
+    <setting id="serieslyaccount" value="false" />
+    <setting id="serieslypassword" value="" />
+    <setting id="serieslyuser" value="" />
+    <setting id="seriesmuaccount" value="false" />
+    <setting id="seriesmupassword" value="" />
+    <setting id="seriesmuuser" value="" />
+    <setting id="stormtvaccount" value="false" />
+    <setting id="stormtvpassword" value="" />
+    <setting id="stormtvuser" value="" />
+    <setting id="subtitle_name" value="Celia 1x55" />
+    <setting id="thumbnail_type" value="2" />
+    <setting id="torrentestrenosaccount" value="false" />
+    <setting id="torrentestrenospassword" value="" />
+    <setting id="torrentestrenosuser" value="" />
+    <setting id="updatechannels" value="true" />
+    <setting id="updatecheck2" value="true" />
+    <setting id="updatelibrary" value="true" />
+    <setting id="uploadedtopassword" value="" />
+    <setting id="uploadedtopremium" value="false" />
+    <setting id="uploadedtouser" value="" />
+    <setting id="whitelist" value="" />
+</settings>

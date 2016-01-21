@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[B]In Theaters[/B]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesislazarus%5cresources%5cart%5cgone%5cmovies_theaters.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesislazarus/?action=movies_theaters",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR coral][B]New HD[/B][/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fs5.postimg.org%2fp6r31q3pj%2fNew_HD.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DNew+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2FRecent.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fp6r31q3pj%2FNew_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[B]Most Viewed[/B]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.watch1080%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.watch1080/?url=http%3A%2F%2Fwatch1080p.com%2Flist%2Ffilm%2F%3Forder%3Dview&amp;mode=1&amp;name=Most+Viewed&amp;iconimage=C%3A%5CUsers%5CMarvin+j%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.watch1080%5Cicon.png&amp;description=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR coral]  [B]NetFlix [/B]  [/COLOR]</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fi.imgur.com%2fiYCbuTY.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.COLOMBIA TV LIBRE/?url=http%3A%2F%2Fdl.dropboxusercontent.com%2Fs%2Fyzdmaw17oj7dzxm%2FAloFlix.xml&amp;mode=1&amp;name=%5BCOLOR+lime%5D%E2%80%A2%5B%2FCOLOR%5D%5BCOLOR+coral%5D++%5BB%5DAloFlix+%5B%2FB%5D++%5B%2FCOLOR%5D+%5BCOLOR+skyblue%5D+%5BPeliculas+en+SD+y+HD+Audio+Latino%5D%5B%2FCOLOR%5D++&amp;fanart=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Cinema Movies</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.xmovies8%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.xmovies8/?url=http%3A%2F%2Fxmovies8.tv%2Fcinema-movies%2Fpage%2F1&amp;mode=1&amp;name=Cinema+Movies&amp;iconimage=C%3A%5CUsers%5CMarvin+j%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.xmovies8%5Cicon.png&amp;description=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>New Movie Releases</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.watch1080%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.watch1080/?url=http%3A%2F%2Fwatch1080p.com%2Flist%2Ffilm%2F&amp;mode=1&amp;name=New+Movie+Releases&amp;iconimage=C%3A%5CUsers%5CMarvin+j%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.watch1080%5Cicon.png&amp;description=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Search...</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cMarvin%20j%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?name=Search...&amp;url=0&amp;audio=0&amp;image=C%3A%5CUsers%5CMarvin+j%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.phstreams%5Cicon.png&amp;fanart=C%3A%5CUsers%5CMarvin+j%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.phstreams%5Cfanart.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=searchDirectory",return)</action>
+	</shortcut>
+</shortcuts>

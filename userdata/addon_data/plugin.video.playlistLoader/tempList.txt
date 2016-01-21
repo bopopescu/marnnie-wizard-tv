@@ -1,0 +1,452 @@
+[
+    {
+        "url": "http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/429.m3u8", 
+        "image": "", 
+        "name": "USA Fox Sports 2"
+    }, 
+    {
+        "url": "http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/784.m3u8", 
+        "image": "", 
+        "name": "ESP Canal + Liga HD"
+    }, 
+    {
+        "url": "http://118.97.183.222:1935/discover/fight/chunklist.m3u8", 
+        "image": "", 
+        "name": " FIGHT Sport"
+    }, 
+    {
+        "url": "http://bit.ly/1XxOerx", 
+        "image": "", 
+        "name": " Fox Sports 1 HD NL"
+    }, 
+    {
+        "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200", 
+        "image": "", 
+        "name": "SPORT TIME TV (US)"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://2335205c8f0149afbb1647fd335141a2cf76452a&mode=1&name=acestream&mode=1&name=ARENAVISION 1", 
+        "image": "", 
+        "name": "ARENAVISION 1"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://c77a290466bc21e0cc4f1d7ffbe642fc6f352de1&mode=1&name=acestream&mode=1&name=ARENAVISION 2", 
+        "image": "", 
+        "name": "ARENAVISION 2"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://e0d7d6eda43ac3007b4c1c1a4b943aeee48c1ff4&mode=1&name=acestream&mode=1&name=ARENAVISION 3", 
+        "image": "", 
+        "name": "ARENAVISION 3"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://a1aacdea9b71380049c802e085c0ff218855cc2d&mode=1&name=acestream&mode=1&name=ARENAVISION 4", 
+        "image": "", 
+        "name": "ARENAVISION 4"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://dcfeccfb1f68132d3da6770d95143329e785ac4a&mode=1&name=acestream&mode=1&name=ARENAVISION 5", 
+        "image": "", 
+        "name": "ARENAVISION 5"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://3174a339cba12830b9e16bfea0db441ceb21e21c&mode=1&name=acestream&mode=1&name=ARENAVISION 6", 
+        "image": "", 
+        "name": "ARENAVISION 6"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://d671a8abbe45c2b104f9e95d8e78cbab5c9fae18&mode=1&name=acestream&mode=1&name=ARENAVISION 7", 
+        "image": "", 
+        "name": "ARENAVISION 7"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://36bd5070834ebbf68ebb5cad35342e82a5f419fb&mode=1&name=acestream&mode=1&name=ARENAVISION 8", 
+        "image": "", 
+        "name": "ARENAVISION 8"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://837c2e9b79b5eafce651bb892b4f9377da90ca4b&mode=1&name=acestream&mode=1&name=ARENAVISION 9", 
+        "image": "", 
+        "name": "ARENAVISION 9"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://b6959b47381e2dfadf89f6c9f2d5883657502062&mode=1&name=acestream&mode=1&name=ARENAVISION 10", 
+        "image": "", 
+        "name": "ARENAVISION 10"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://1344d603229b76a48be28912092f27d6c013c03f&mode=1&name=acestream&mode=1&name=ARENAVISION 11", 
+        "image": "", 
+        "name": "ARENAVISION 11"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://8307047017cf2f68aee840c2b26c39159613cde2&mode=1&name=acestream&mode=1&name=ARENAVISION 12", 
+        "image": "", 
+        "name": "ARENAVISION 12"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://feb84abca428b17189a0b8034018192d89d8cebd&mode=1&name=acestream&mode=1&name=ARENAVISION 13", 
+        "image": "", 
+        "name": "ARENAVISION 13"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://465d486b8ffa0f7b6db0abbe7104901f3b3bd17c&mode=1&name=acestream&mode=1&name=ARENAVISION 14", 
+        "image": "", 
+        "name": "ARENAVISION 14"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://152655134e5113d905e55edfe5b8bf02629cd8b7&mode=1&name=acestream&mode=1&name=ARENAVISION 15", 
+        "image": "", 
+        "name": "ARENAVISION 15"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://1336b12c5564da5c23de50c33d03e7119f480731&mode=1&name=acestream&mode=1&name=ARENAVISION 16", 
+        "image": "", 
+        "name": "ARENAVISION 16"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162&mode=1&name=acestream&mode=1&name=ARENAVISION 17", 
+        "image": "", 
+        "name": "ARENAVISION 17"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://014a0825b7fd57280581f12d17dc4fb5ea992451&mode=1&name=acestream&mode=1&name=ARENAVISION 18", 
+        "image": "", 
+        "name": "ARENAVISION 18"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162&mode=1&name=acestream&mode=1&name=ARENAVISION 19", 
+        "image": "", 
+        "name": "ARENAVISION 19"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://922dd4f99fe826a55b907f75cdf6ceb946bde3e0&mode=1&name=acestream&mode=1&name=ARENAVISION 20", 
+        "image": "", 
+        "name": "ARENAVISION 20"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://d33479c1c47dc23420fb5894cc71cedf650754eb&mode=1&name=acestream&mode=1&name=ARENASPORT 1", 
+        "image": "", 
+        "name": "ARENASPORT 1"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://5aa17d1d960dd7cb38a0eebb8126671bfa86db21&mode=1&name=acestream&mode=1&name=ARENASPORT 2", 
+        "image": "", 
+        "name": "ARENASPORT 2"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9&mode=1&name=acestream&mode=1&name=ARENASPORT 3", 
+        "image": "", 
+        "name": "ARENASPORT 3"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "BT Sport 1"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://7e8a66f8acc92f39e52634761f391693a4134585&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "BT Sport 2"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "BT Sport ESPN"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Bein Sports 1 HD France"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Bein Sports 2 HD France"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "BENFICA TV 1 PT"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "BENFICA TV 1 PT (opt 2)"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "BENFICA TV 2 PT"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b457d80c1&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "BENFICA TV 2 PT (opt 2) "
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://6523e673b7f5fe48627ac9c9ae15ff544e5b3652&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "BOX NATION"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://77353129af1bafbf313e2a2925d9166010e92ce4&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "C More Tennis"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://6502893c51bcabc817fc6856a94988bd81a172b4&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "CT Sport"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Canal+ Futbol"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Canal+ Liga"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://d7586f582a41990286d438894bfe67dd0f961b18&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Canal+ Liga 2"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://07fb7d0131663a5daef420fd75acb5731b1c6585&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Canal+ Sport HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://7525fc778e3f751b430d4cf626e187268e67a1d5&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Digi Sport 1"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://843675d1c8f68003732db7d73557155dafc5ba03&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Digi Sport 2"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://1c4d3d1959b7eaf29d5ace920416e4a0f4e0cde1&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Eurosport"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Eurosport 2 British"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Eurosport British"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://850cb89e31a9c4c973f889eceeab3e3aed6d9b13&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Eurosport HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://4801c32c13dbc3ad9faece01acd8d7925ae401aa&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "EurospĐžrt 2"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://4b71476f6930076f6e474a520c206fdfd6c33b20&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "EurospĐžrt 2 North-East"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://9ab089645c4fc0845594c063b3f372e842c806a0&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "EurospĐžrt 2 North-East HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://31d35d9c5aa5510f607b19c0a7f25b36ed0ec976&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Extreme Sports"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://fa5b5861c31bd312346530c0e0db562d7e6ccfd1&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "F+ BG"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://667ce36618cd5324a10e273abcc3fb8a3c6d8c5c&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "HD Спорт"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://84c27a15472ee950e0567667dfd270cc81b01498&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Motors TV"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://78e3496e60eb6531f1335639f84b28d712874ae3&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Motorsport"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://98b327d19a16be09070212124826e9209cb97540&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Movistar F1"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://7c01784bfeba11565fce3626e155da1fcdb45976&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Movistar MotoGP"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://3462fdb26e872914ecc30572f3d06d391dbb16a9&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "NBA TV"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://2dd6f07b0f6b600ee0ced7e9e8af352939b0d2e9&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Nova Sport"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://7437157eccc3c23fef405bf277e0d635329428cf&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Nova Sport BG"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://ed20cc93e89e6b232ee9e515b7cdeed57fd773b5&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Polsat Sport Extra HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://dfb1115adb7c8740bea94431bdadf2e19fc9bd99&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Polsat Sport HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://4c0c928a085aaa180288be1d749ccfd4aed253be&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Polsat Sport News"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Premier Sports"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Setanta Sports + HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://4f341d4014b588016bdc636b906b880af6a26e63&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Setanta Sports Eurasia HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sky Sports 1"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sky Sports 2"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://2e8b87e0595573cf9cc422899d0e4c86fbd83081&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sky Sports 3"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sky Sports 4"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sky Sports 5"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sky Sports F1"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://983a3e2b00512a85430bbd1300b6c8d4abac11c7&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sky Sports F1 HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sport 1 Cz"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://3a619efa4e9efb342affe2042a80647497ef5dbd&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sport 1 DE"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://923bfb351663df55f2708a82eeadb50225bc213d&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sport 2 Cz"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sport TV 1 PT"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "SPORT TV 1 PT (opt 2)"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sport TV 2 PT"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "SPORT TV 2 PT (opt 2)"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sport TV 3 PT"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "SPORT TV 3 PT (opt 2)"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sport TV 4 PT"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Sport TV 5 PT"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e10356dbb8bbc&mode=1&name=acestream+", 
+        "image": "", 
+        "name": " SPORT TV 5 PT (opt 2)"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://c0348d263ba7bbb3044b156f806999b0ead8d93e&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Super Tennis HD"
+    }, 
+    {
+        "url": "plugin://program.plexus/?mode=1&url=acestream://c6635313ebda29534b908d1e67d724d443236a0a&mode=1&name=acestream+", 
+        "image": "", 
+        "name": "Teledeporte"
+    }
+]
