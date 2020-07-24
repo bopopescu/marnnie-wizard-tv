@@ -317,7 +317,7 @@ def GetYoutube(url):
 		
 def Getanvato(url):
 	try:
-		if 'master' in url:
+		if 'main' in url:
 			return url
 		else:	 
 			lst = url.split('/')
@@ -328,7 +328,7 @@ def Getanvato(url):
 		
 def Getroom(url):
 	try:
-		if 'master' in url:
+		if 'main' in url:
 			return url
 		else:	 
 			lst = url.split('/')

@@ -34,7 +34,7 @@ def novedades(item):
 
     # Descarga la página
     data = scrapertools.cachePage(item.url)
-    #<a href="http://tubehentai.com/videos/slave_market_¨c_ep1-595.html"><img class="img" width="145" src="http://tubehentai.com/media/thumbs/5/9/5/./f/595/595.flv-3.jpg" alt="Slave_Market_&Acirc;&uml;C_Ep1" id="4f4fbf26f36
+    #<a href="http://tubehentai.com/videos/slave_market_¨c_ep1-595.html"><img class="img" width="145" src="http://tubehentai.com/media/thumbs/5/9/5/./f/595/595.flv-3.jpg" alt="Subordinate_Market_&Acirc;&uml;C_Ep1" id="4f4fbf26f36
     patron = '<a href="(http://tubehentai.com/videos/[^"]+)"><img.*?src="(http://tubehentai.com/media/thumbs/[^"]+)" alt="([^"]+)"'
     matches = re.compile(patron,re.DOTALL).findall(data)
     if DEBUG: scrapertools.printMatches(matches)

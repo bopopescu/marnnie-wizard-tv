@@ -18,7 +18,7 @@ __addonid__      = sys.modules[ "__main__" ].__addonid__
 __addonversion__ = __addon__.getAddonInfo('version')
 __xbmcversion__  = xbmc.getInfoLabel( "System.BuildVersion" ).split(".")[0]
 __datapath__     = os.path.join( xbmc.translatePath( "special://profile/addon_data/" ).decode('utf-8'), __addonid__ ).encode('utf-8')
-__masterpath__     = os.path.join( xbmc.translatePath( "special://masterprofile/addon_data/" ).decode('utf-8'), __addonid__ ).encode('utf-8')
+__mainpath__     = os.path.join( xbmc.translatePath( "special://mainprofile/addon_data/" ).decode('utf-8'), __addonid__ ).encode('utf-8')
 __skin__         = xbmc.translatePath( "special://skin/" )    
 __language__     = __addon__.getLocalizedString
 
@@ -70,12 +70,12 @@ class XMLFunctions():
                 if "://" in dir:
                     dir = xbmc.translatePath( dir ).decode( "utf-8" )
                 else:
-                    # Base if off of the master profile
-                    dir = xbmc.translatePath( os.path.join( "special://masterprofile", dir ) ).decode( "utf-8" )
+                    # Base if off of the main profile
+                    dir = xbmc.translatePath( os.path.join( "special://mainprofile", dir ) ).decode( "utf-8" )
                 profilelist.append( [ dir, "StringCompare(System.ProfileName," + name.decode( "utf-8" ) + ")", name.decode( "utf-8" ) ] )
                 
         else:
-            profilelist = [["special://masterprofile", None]]
+            profilelist = [["special://mainprofile", None]]
  
         if self.shouldwerun( profilelist ) == False:
             log( "Menu is up to date" )
@@ -195,7 +195,7 @@ class XMLFunctions():
 
 
         try:
-            hashes = ast.literal_eval( xbmcvfs.File( os.path.join( __masterpath__ , xbmc.getSkinDir() + ".hash" ) ).read() )
+            hashes = ast.literal_eval( xbmcvfs.File( os.path.join( __mainpath__ , xbmc.getSkinDir() + ".hash" ) ).read() )
         except:
             # There is no hash list, return True
             log( "No hash list" )
@@ -600,7 +600,7 @@ class XMLFunctions():
         hashlist.list.append( ["::SKINVER::", skinVersion] )
 
         # Save the hashes
-        file = xbmcvfs.File( os.path.join( __masterpath__ , xbmc.getSkinDir() + ".hash" ), "w" )
+        file = xbmcvfs.File( os.path.join( __mainpath__ , xbmc.getSkinDir() + ".hash" ), "w" )
         file.write( repr( hashlist.list ) )
         file.close
         

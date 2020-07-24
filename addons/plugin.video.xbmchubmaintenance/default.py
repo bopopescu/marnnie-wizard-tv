@@ -13,7 +13,7 @@ mainurl=TribecaUrl+'tools/maintenance'
 def getArt(n): 
     if os.path.isfile(os.path.join(art,n))==True: return os.path.join(art,n)
     else: return mainurl+'/thumbs/'+n
-howtourl=TribecaUrl+'tools/maintenance/videos/master.xml'
+howtourl=TribecaUrl+'tools/maintenance/videos/main.xml'
 defaulticon=xbmc.translatePath(os.path.join(maintenancepath,'icon.png')); #defaulticon=xbmc.translatePath(os.path.join(art,'icon.jpg')); 
 defaultfanart=xbmc.translatePath(os.path.join(maintenancepath,'fanart.jpg')); #defaultfanart=os.path.join(art,'fanart.jpg')
 wallpaperurl='http://wallpaperswide.com'
